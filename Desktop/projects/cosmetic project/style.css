@@ -1,0 +1,31 @@
+
+header nav  a{
+    color:blue;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.2s ease ;
+    padding-left:10rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+header{
+    background-color:pink;
+    width: 100%;
+    height: 150px;
+    clip-path: polygon(0 0,100% 0 ,100% 100%,73% 94%,0 100%) ;
+    position: -webkit-sticky; 
+    position: fixed; 
+    top: 0;
+
+}
+.hero {
+    margin-top: 200px;
+    0px;
+    display: flex;
+    align-items: self-start;
+    justify-content: space-between;
+}
+.links a:hover
+{
+    color: white;
+}
